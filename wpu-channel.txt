@@ -3,6 +3,6 @@ WPU Channel list:
 - CSS Dasar
 - CSS Layouting
 - CSS3
-- JS Dasar
 - JavaScript Dasar
 - PHP Dasar 
+- JavaScript DOM
