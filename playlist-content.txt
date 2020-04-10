@@ -3,4 +3,4 @@ Playlist Content for WPU
 - PHP MVC
 - REST API
 - Login CI
-- GIT & GitHub
+- GIT & GitHub [on-going]
