@@ -1,6 +1,6 @@
 Playlist Content for WPU
-- PHP OOP
-- PHP MVC
-- REST API
+- PHP OOP [finish]
+- PHP MVC [on-hold]
+- REST API [done]
 - Login CI
 - GIT & GitHub [on-going]
