@@ -1,0 +1,6 @@
+Playlist Content for WPU
+- PHP OOP
+- PHP MVC
+- REST API
+- Login CI
+- GIT & GitHub
