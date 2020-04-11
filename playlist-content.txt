@@ -5,3 +5,4 @@ Playlist Content for WPU
 - Login CI
 - GIT & GitHub [on-going]
 - Laravel Dasar
+- JavaScript Lanjutan
