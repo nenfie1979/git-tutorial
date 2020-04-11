@@ -6,3 +6,5 @@ WPU Channel list:
 - JavaScript Dasar
 - PHP Dasar 
 - JavaScript DOM
+- PHP OOP
+- PHP MVC
